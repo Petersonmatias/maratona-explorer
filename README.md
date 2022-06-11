@@ -3,7 +3,7 @@ Maratona Explorer Rockeseat
 </h1>
 
 <p align="center">
-  <img alt="" src=".github/maratona-explorer.jpg" width="100%">
+  <img alt="" src="img/maratona-explorer.jpg" width="100%">
 </p>
 
 <p align="center">

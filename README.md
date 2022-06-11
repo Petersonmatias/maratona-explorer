@@ -3,7 +3,7 @@ Maratona Explorer Rockeseat
 </h1>
 
 <p align="center">
-  <img alt="" src="img/maratona-explorer.jpg" width="100%">
+  <img alt="" src=".github/maratona-explorer.jpg" width="100%">
 </p>
 
 <p align="center">
@@ -20,15 +20,6 @@ Maratona Explorer Rockeseat
   <img src="https://img.shields.io/github/stars/birobirobiro/live-twitch-lp-gpt3?label=stars&message=MIT&color=3793E8&labelColor=06187B " alt="Stars">
 </p>
 
-<p align="center">
-  <img alt="" src=".github/logo-plane.svg" width="10%">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="" src=".github/preview-desktop.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 

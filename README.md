@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: https://github.com/Petersonmatias/desafio-repositorio
+Live Preview: https://github.com/Petersonmatias/maratona-explorer.git
 
 ## 🎨 Inspiração:
 
